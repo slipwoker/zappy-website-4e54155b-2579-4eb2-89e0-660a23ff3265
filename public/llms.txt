@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+SeatSync מחוללת מהפכה בניהול אירועים עם אישורי הגעה דיגיטליים וסידורי הושבה חכמים. פתרון טכנולוגי מתקדם שהופך כל אירוע לחוויה חלקה ומושלמת.
+
+### שירותים
+https://example.com/services
+גלה את מגוון שירותי SeatSync: סידורי הושבה אוטומטיים, אישורי הגעה דיגיטליים לאירועים וממשק ניהול אורחים מתקדם. כל הכלים שמארגן אירועים מקצועי צריך במקום אחד.
+
+### אודות
+https://example.com/about
+SeatSync נולדה מתוך חזון אחד: להפוך את ניהול האירועים לפשוט, חכם ומדויק. למדו כיצד הטכנולוגיה שלנו עוזרת למארגני אירועים ברחבי הארץ ליצור חוויות בלתי נשכחות.
+
+### צור קשר
+https://example.com/contact
+צור קשר עם צוות SeatSync עוד היום וגלה כיצד אישורי הגעה דיגיטליים וסידורי הושבה חכמים יהפכו את האירוע הבא שלך להצלחה מוחלטת. אנחנו כאן לענות על כל שאלה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
