@@ -8675,6 +8675,27 @@ body.accessibility-widget-visible ._access-menu {
     display: none !important;
   }
 }
+
+.site-footer .footer-grid {
+  display: grid !important;
+  grid-template-columns: 2fr 1fr 1fr 1.5fr !important;
+  gap: 48px 32px !important;
+  align-items: start !important;
+}
+
+@media (max-width: 900px) {
+.site-footer .footer-grid {
+  grid-template-columns: 1fr 1fr !important;
+  gap: 32px 24px !important;
+}
+}
+
+@media (max-width: 600px) {
+.site-footer .footer-grid {
+  grid-template-columns: 1fr !important;
+  gap: 28px !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
